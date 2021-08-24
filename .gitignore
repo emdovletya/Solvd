@@ -1,0 +1,9 @@
+.idea/
+logs/
+other/
+*.class
+target/
+*.jar
+.gitattributes
+out/production/Tanda_proj/log4j2.xml
+*.iml
